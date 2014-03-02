@@ -9,7 +9,7 @@ Years ago, choosing a blogging platform was easy – point the browser to [Blogg
 
 In an attempt to simplify most things in my life I'm switching blogging platform. Not that there was a lot of writing going on. I'll change that. Promise. A man can dream, am I right?
 
-Simplification does however not mean giving up control. After all, I am a developer, and there's this soothing feeling when things are simple enough to keep in my head. Anyway, the platform of choice is now [Jekyll][jekyll] instead of [Assemble][assemble]. I'm hosting for free on [Github Pages][gh-pages], and the splendid people over there have hooked Jekyll-support straight up in there. Nice.
+Simplification does however not mean giving up control. After all, I am a developer, and there's this soothing feeling when things are simple enough to keep in my head. Anyway, the "platform" of choice is now [Jekyll][jekyll] instead of [Assemble][assemble]. I'm hosting for free on [Github Pages][gh-pages], and the splendid people over there have hooked Jekyll-support straight up in there. Nice.
 
 Nevertheless, I'll probably regret this "announcement" when I in four months realize I have yet to write a second post. Here's to cognitive dissonance!
 
