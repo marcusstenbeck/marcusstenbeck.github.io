@@ -5,7 +5,7 @@ date:   2014-03-02 16:43:44
 categories: jekyll update
 ---
 
-Years ago, choosing a blogging platform was easy – point the browser to [Blogger][blogger] and then go to town (Google is seemingly trying to cram it into their all-you-can-eat-buffét now). That was it. Nowadays – completely different. Selection has gone through the roof. Expecially if you're a developer/geek. It's not uncommon to be distracted by the weekly new contender. Oh, geez.
+Years ago, choosing a blogging platform was easy – point the browser to [Blogger][blogger] and then go to town (Google is seemingly trying to cram it into their all-you-can-eat-buffét now). That was it. Nowadays – completely different. Selection has gone through the roof. Especially if you're a developer/geek. It's not uncommon to be distracted by the weekly new contender. Oh, geez.
 
 In an attempt to simplify most things in my life I'm switching blogging platform. Not that there was a lot of writing going on. I'll change that. Promise. A man can dream, am I right?
 
