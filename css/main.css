@@ -1,4 +1,4 @@
-/* font-family: 'Mate', serif; */
+/* font-family: 'Lora', serif; */
 @import url(http://fonts.googleapis.com/css?family=Mate:400,400italic);
 
 /*****************************************************************************/
@@ -18,7 +18,7 @@ html, body { height: 100%; }
 body {
   background-color: #FFF;
   font-family: 'Mate', serif;
-  font-size: 18px;
+  font-size: 22px;
   text-align: center;
   color: #333;
 }
@@ -33,10 +33,7 @@ a {
   color: #000;
   font-weight: bold;
   text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
+  border-bottom: solid 1px #eee;
 }
 
 .meta {
@@ -68,16 +65,17 @@ a:hover {
 /*****************************************************************************/
 
 .site {
-  text-align: justify;
-  width: 42em;
+  text-align: left;
+  max-width: 660px;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
 
 .site-header {
-  color: #666;
-  width: 42em;
   margin: 1em auto;
+  max-width: 660px;
+  color: #666;
+  font-size: 60%;
 }
 
 .site-header a { color: #aaa; }
@@ -99,8 +97,13 @@ h1.title {
 
 /* standard */
 .post-header {
-  font-size: 3em;
-  color: #000;
+  margin-bottom: 1em;
+  color: #333;
+  font-size: 2em;
+}
+
+.post >:first-child {
+  text-indent: 1em;
 }
 
 .post pre {
@@ -126,7 +129,7 @@ h1.title {
 .post-signature {
   width: 30%;
   float: right;
-  margin: 0 0 1em;
+  margin: 0 0 2em;
 }
 
 /* terminal */
