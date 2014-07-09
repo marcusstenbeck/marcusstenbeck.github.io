@@ -5,7 +5,7 @@ date:   2014-07-09 18:05:00
 categories: minimalism lifestyle
 ---
 
-One question I asked myself a long time ago, even before I discovered minimalism, was how I could know if I really need the things I want to buy. I would sometimes get a strong desire to throw money at something. A rationalizing inner demon would convince me to buy something just because I thought wanted or needed it. As human beings we are extremely good at inventing reasons to buy just about anything.
+One question I asked myself a long time ago, even before I discovered minimalism, was how I could know if I really need the things I want to buy. I would sometimes get a strong desire to throw money at random things, and a rationalizing inner demon would convince me to buy it. As human beings we are extremely good at inventing reasons to buy just about anything.
 
 A long time ago I felt like I was missing something in my guitar sound. Obviously, I blamed it on my guitar amplifier. A few hours later, after some research, I was convinced that a set of fancy replacement parts for my amplifier would magically add what was missing. I was seconds away from typing in my credit card information and confirming the order, and then I closed the browser window. I was chatting with a friend and telling him how great my guitar tone was going to become when he sent an off-handed comment.
 
