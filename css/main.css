@@ -36,6 +36,12 @@ a {
   border-bottom: solid 1px #eee;
 }
 
+blockquote {
+  border-left: solid 1px;
+  padding-left: 1em;
+  font-style: italic;
+}
+
 .meta {
   color: #aaa;
 }
