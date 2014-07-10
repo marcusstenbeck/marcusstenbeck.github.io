@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<canvas id="thecanvas" width="10" height="10"></canvas>
+<div id="console"></div>
+<script type="text/javascript">
+
+var canvas = document.getElementById('thecanvas');
+var myConsole = document.getElementById('console');
+var context = null;
+
+myConsole.log = function(str) {
+	var line = document.createElement('pre');
+	line.innerHTML = str;
+	this.appendChild(line);
+}
+
+function initContext() {
+	var theInfo = '';
+	if (!!window.WebGLRenderingContext) {
+		var contextNames = ["experimental-webgl", "webgl", "moz-webgl", "webkit-3d"];
+		for (var i = 0; i < contextNames.length; i++) {
+			try {
+				context = canvas.getContext(contextNames[i]);
+				if (context && typeof(context.getParameter) === "function") {
+					// WebGL is supported & enabled
+
+					theInfo+='VENDOR: ' + context.getParameter(context.VENDOR) + '\n';
+					theInfo+='VERSION: ' + context.getParameter(context.VERSION) + '\n';
+					theInfo+='SHADING_LANGUAGE_VERSION: ' + context.getParameter(context.SHADING_LANGUAGE_VERSION) + '\n';
+					theInfo+='RENDERER: ' + context.getParameter(context.RENDERER) + '\n';
+					theInfo+='EXTENSIONS: ' + context.getSupportedExtensions() + '\n';
+					theInfo+='SAMPLES: ' + context.getParameter(context.SAMPLES) + '\n';
+					theInfo+='MAX_VERTEX_TEXTURE_IMAGE_UNITS: ' + context.getParameter(context.MAX_VERTEX_TEXTURE_IMAGE_UNITS) + '\n';
+					theInfo+='MAX_VARYING_VECTORS: ' + context.getParameter(context.MAX_VARYING_VECTORS) + '\n';
+					theInfo+='MAX_CUBE_MAP_TEXTURE_SIZE: ' + context.getParameter(context.MAX_CUBE_MAP_TEXTURE_SIZE) + '\n';
+					theInfo+='DEPTH_BITS: ' + context.getParameter(context.DEPTH_BITS) + '\n';
+					theInfo+='MAX_VERTEX_ATTRIBS: ' + context.getParameter(context.MAX_VERTEX_ATTRIBS) + '\n';
+					theInfo+='MAX_VERTEX_UNIFORM_VECTORS: ' + context.getParameter(context.MAX_VERTEX_UNIFORM_VECTORS) + '\n';
+					theInfo+='MAX_RENDERBUFFER_SIZE: ' + context.getParameter(context.MAX_RENDERBUFFER_SIZE) + '\n';
+					theInfo+='SAMPLE_BUFFERS: ' + context.getParameter(context.SAMPLE_BUFFERS) + '\n';
+					theInfo+='MAX_FRAGMENT_UNIFORM_VECTORS: ' + context.getParameter(context.MAX_FRAGMENT_UNIFORM_VECTORS) + '\n';
+					theInfo+='MAX_TEXTURE_IMAGE_UNITS: ' + context.getParameter(context.MAX_TEXTURE_IMAGE_UNITS) + '\n';
+					theInfo+='MAX_COMBINED_TEXTURE_IMAGE_UNITS: ' + context.getParameter(context.MAX_COMBINED_TEXTURE_IMAGE_UNITS) + '\n';
+					theInfo+='ALIASED_LINE_WIDTH_RANGE: ' + Array.prototype.join.call(context.getParameter(context.ALIASED_LINE_WIDTH_RANGE), ',') + '\n';
+					theInfo+='MAX_TEXTURE_SIZE: ' + context.getParameter(context.MAX_TEXTURE_SIZE) + '\n';
+					theInfo+='STENCIL_BITS: ' + context.getParameter(context.STENCIL_BITS) + '\n';
+					theInfo+='SUBPIXEL_BITS: ' + context.getParameter(context.SUBPIXEL_BITS) + '\n';
+					theInfo+='ALIASED_POINT_SIZE_RANGE: ' + Array.prototype.join.call(context.getParameter(context.ALIASED_POINT_SIZE_RANGE), ',') + '\n';
+
+					break;
+				}
+			} catch (e){}
+		}
+		if (!context) {
+			theInfo+='WebGL is supported but disabled\n';
+		}
+	}
+	else {
+		theInfo+='WebGL is not supported\n';
+	}
+
+	// Get vendor info
+	theInfo+= "navigator.appCodeName: " + navigator.appCodeName + "\n";
+	theInfo+= "navigator.appName: " + navigator.appName + "\n";
+	theInfo+= "navigator.appVersion: " + navigator.appVersion + "\n";
+	theInfo+= "navigator.cookieEnabled: " + navigator.cookieEnabled + "\n";
+	theInfo+= "navigator.language: " + navigator.language + "\n";
+	theInfo+= "navigator.onLine: " + navigator.onLine + "\n";
+	theInfo+= "navigator.platform: " + navigator.platform + "\n";
+	theInfo+= "navigator.userAgent: " + navigator.userAgent + "\n";
+	theInfo+= "navigator.systemLanguage: " + navigator.systemLanguage + "\n";
+
+	myConsole.log(theInfo);
+}
+
+initContext();
+
+</script>
+</body>
+</html>
