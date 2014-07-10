@@ -2,10 +2,14 @@
 layout: default
 comments: true
 ---
-<h2 class="post-header">{{ page.title }}</h2>
+<div class="l-container">
+	<div class="l-row">
+		<h2 class="post-header">{{ page.title }}</h2>
 
-<div class="post">
-{{ content }}
+		<div class="post">
+		{{ content }}
+		</div>
+
+		<img class="post-signature" src="{{site.assets}}/images/sign.svg">
+	</div>
 </div>
-
-<img class="post-signature" src="/images/sign.svg">

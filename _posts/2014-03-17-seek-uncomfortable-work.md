@@ -7,7 +7,7 @@ categories: perseverence, pride
 
 Among the best feelings I've experienced is when I've received good grades in math. I've always had a strained relationship with the subject; in middle school I desperately placed an eternal oath of hate for all mathematical subjects. Yet, I'll be hard-pressed to give a better example of a more pure, joyous pride than when I receive good grades on my math tests. It's like being served a cup of hot chocolate on a cold winter day, while wrapped in a warm blanket after battling a fierce blizzard. I also dislike cold weather and snow, but let's keep it to the point.
 
-> "Dude, sucking at something is the first step to being sorta good at something." *– [Jake the Dog][jake]*
+> Dude, sucking at something is the first step to being sorta good at something.<cite>[Jake the Dog][jake]</cite>
 
 I believe that there's always a reason for a reward, and the reason I feel good about getting good grades in maths is because, for me, it's *hard*. Compare it to a tough physical workout; there's a sense of accomplishment, and it's not only psychological. The human body actually rewards you physically for doing hard shit.
 

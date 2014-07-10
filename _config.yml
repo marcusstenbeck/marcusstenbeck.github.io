@@ -4,3 +4,4 @@ pygments: true
 permalink: blog/:title
 description:  Thoughts and reflections from Marcus Stenbeck
 url: http://marcusstenbeck.com
+assets: /assets
