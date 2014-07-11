@@ -5,7 +5,7 @@ title: Reading History
 
 # Reading History
 
-On this page I keep track of stories, articles, books, and *(maybe?)* scriptures that I've read. I can point friends here, and re-discover things I've forgotten. This page has a truly endless potential, I guess.
+On this page I keep track of stories, articles, books, and *(maybe?)* scriptures that I've read. I can point friends here, and re-discover things I've forgotten. This page has truly endless potential, I guess.
 
 *This page is continually updated and amended.*
 
