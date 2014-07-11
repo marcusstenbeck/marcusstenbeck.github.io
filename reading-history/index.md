@@ -5,7 +5,7 @@ title: Reading History
 
 # Reading History
 
-On this page I list stories, articles, books, and scriptures (maybe?) that I've read. Mostly, it's for me to keep track of inspiring stuff. I can point friends to the page as well, I guess. The usage potential truly is endless.
+On this page I keep track of stories, articles, books, and scriptures *(maybe?)* that I've read. I can point friends to the page. The potential of this page is truly endless, I guess.
 
 *This page is continually updated and amended.*
 
