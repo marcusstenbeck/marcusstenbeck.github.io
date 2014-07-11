@@ -65,7 +65,10 @@ blockquote cite:before { content: '\2014 '; }
 
 .navbar-header { display: inline-block; }
 .l-container > .navbar-header { margin-left: -15px; }
-.navbar-brand { display: inline-block; padding: 15px 10px; text-decoration: none; }
+.navbar-brand { display: inline-block; padding: 15px 10px; font-family: 'Lucida Sans', sans-serif; font-size: 70%; text-decoration: none; }
+@media (min-width: 430px) {
+  .navbar-brand { font-size: 80%; }
+}
 .l-container > .navbar-header > .navbar-brand { padding-left: 0; }
 .navbar-nav { margin: 0; }
 .navbar-right { float: right; margin-right: -15px; }
@@ -98,6 +101,59 @@ blockquote cite:before { content: '\2014 '; }
 
 .post-signature { width: 200px; float: right; margin-top: 1em; margin-bottom: 2em; padding-right: 2em; }
 
+
+
+/**
+ *  Marcus Stenbeck Logo
+ */
+
+/* Bottom left magenta triangle */
+.ms-logo {
+  display: inline-block;
+  position: relative;
+  border-right: solid 10px black;
+  width: 0;
+  height: 0;
+  border-top: solid 0 transparent;
+  border-left: solid 0 transparent;
+  border-right: solid 0.25em transparent;
+  border-bottom: solid 0.25em #f94df8;
+  margin-left: 1em;
+  margin-top: 0.75em;
+  margin-right: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+/* Top left yellow triangle */
+.ms-logo:before {
+  position: absolute;
+  top: -0.75em;
+  left: -1em;
+  content: ' ';
+  display: block;
+  width: 0;
+  height: 0;
+  border-top: solid 0.5em transparent;
+  border-right: solid 0 transparent;
+  border-left: solid 0.5em #f8f94d;
+  border-bottom: solid 0.5em transparent;
+}
+
+/* Middle cyan triangle */
+.ms-logo:after {
+  position: absolute;
+  top: -0.75em;
+  left: -1em;
+  content: ' ';
+  display: block;
+  width: 0;
+  height: 0;
+  border-top: solid 0 transparent;
+  border-right: solid 0 transparent;
+  border-left: solid 1em transparent;
+  border-bottom: solid 1em #4df8f9;
+}
 
 /**
  *  Social Icons
