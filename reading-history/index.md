@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Reading List
+title: Reading History
 ---
 
-# Reading List
+# Reading History
 
 On this page I list stories, articles, books, and scriptures (maybe?) that I've read. Mostly, it's for me to keep track of inspiring stuff. I can point friends to the page as well, I guess. The usage potential truly is endless.
 
