@@ -25,3 +25,10 @@ On this page I keep track of stories, articles, books, and *(maybe?)* scriptures
 ### January 2014
 
 So Good They Can't Ignore You ([Amazon](http://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124))
+
+
+## Books to Read
+
+[Learning Processing](http://www.learningprocessing.com/) and [Nature of Code](http://natureofcode.com/) by [Daniel Shiffman](http://shiffman.net/), recommended by [Tim Stutts](http://timstutts.com/)
+
+[Generative Art: A Practical Guide Using Processing](http://zenbullets.com/book.php) by [Matt Pearson](http://zenbullets.com/)
