@@ -14,6 +14,8 @@ On this page I keep track of stories, articles, books, and *(maybe?)* scriptures
 
 ### July 2014
 
+[Do you know where you productivity is?](http://www.theminimalists.com/productivity/)
+
 [A Place for Sharing Ideas and Stories: Making Medium.com](http://www.teehanlax.com/story/medium/)
 
 [The Making of teehan+lax: The Story of Our Company](http://www.teehanlax.com/story/teehan-lax/)
