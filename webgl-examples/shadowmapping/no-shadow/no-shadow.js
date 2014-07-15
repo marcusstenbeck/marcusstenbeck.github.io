@@ -1,5 +1,5 @@
 (function() {
-  var animate, camDist, camPitch, camProj, camRot, camView, canvas, container, controls, counter, cubeGeom, displayShader, draw, fullscreenImg, gl, hover, lightProj, lightRot, lightView, model, mousemove, mouseup, name, offset, planeGeom;
+  var animate, camDist, camPitch, camProj, camRot, camView, canvas, params, container, controls, counter, cubeGeom, displayShader, draw, fullscreenImg, gl, hover, lightProj, lightRot, lightView, model, mousemove, mouseup, name, offset, planeGeom;
 
   name = 'no-shadow';
 
@@ -9,8 +9,12 @@
 
   canvas = $('<canvas></canvas>').appendTo(container)[0];
 
+  params = {
+    antialias: false
+  };
+
   try {
-    gl = new WebGLFramework(canvas).depthTest();
+    gl = new WebGLFramework(canvas, params).depthTest();
   } catch (error) {
     container.empty();
     $('<div class="error"></div>').text(error).appendTo(container);
