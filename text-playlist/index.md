@@ -16,6 +16,8 @@ So Good They Can't Ignore You ([Amazon](http://www.amazon.com/Good-They-Cant-Ign
 
 ## Articles
 
+[Quake’s 3-D Engine: The Big Picture](http://www.bluesnews.com/abrash/chap70.shtml) (intro)
+
 [The End of the Day Philosophy](http://zenhabits.net/sundown/)
 
 [Do you know where you productivity is?](http://www.theminimalists.com/productivity/)
