@@ -16,7 +16,7 @@ So Good They Can't Ignore You ([Amazon](http://www.amazon.com/Good-They-Cant-Ign
 
 ## Articles
 
-[Quake’s 3-D Engine: The Big Picture](http://www.bluesnews.com/abrash/chap70.shtml) (intro)
+[The Crossroads of Should and Must](https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0), by Elle Luna
 
 [The End of the Day Philosophy](http://zenhabits.net/sundown/)
 
