@@ -14,6 +14,8 @@ On this page I keep track of stories, articles, books, and *(maybe?)* scriptures
 
 ### July 2014
 
+[An Extended Conversation with Philip Bloom](https://www.themusicbed.com/community/extended-conversation-philip-bloom/)
+
 [The Crossroads of Should and Must](https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0)
 
 [Quake’s 3-D Engine: The Big Picture](http://www.bluesnews.com/abrash/chap70.shtml) (intro)
