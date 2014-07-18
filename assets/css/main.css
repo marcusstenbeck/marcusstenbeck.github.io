@@ -58,14 +58,14 @@ blockquote cite:before { content: '\2014 '; }
 
 .navbar {
   position: relative;
-  min-height: 50px;
+  height: 60px;
   border-bottom: solid 1px #ccc;
   padding: 0;
 }
 
 .navbar-header { display: inline-block; }
 .l-container > .navbar-header { margin-left: -15px; }
-.navbar-brand { display: inline-block; padding: 15px 10px; font-family: 'Lucida Sans', sans-serif; font-size: 70%; text-decoration: none; }
+.navbar-brand { display: inline-block; padding: 20px 10px; font-family: 'Lucida Sans', sans-serif; font-size: 70%; text-decoration: none; }
 @media (min-width: 430px) {
   .navbar-brand { font-size: 80%; }
 }
