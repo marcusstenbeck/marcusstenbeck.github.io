@@ -155,25 +155,3 @@ blockquote cite:before { content: '\2014 '; }
   border-bottom: solid 1em #4df8f9;
 }
 
-/**
- *  Social Icons
- *  http://socicon.com/
- *
- */
-
-@font-face {
-  font-family: 'socicon';
-  src: url('../fonts/socicon/socicon-webfont.eot');
-  src: url('../fonts/socicon/socicon-webfont.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/socicon/socicon-webfont.woff') format('woff'),
-    url('../fonts/socicon/socicon-webfont.ttf') format('truetype'),
-    url('../fonts/socicon/socicon-webfont.svg#sociconregular') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-.icon-social { font-family: 'socicon' !important; font-style: normal; }
-.icon-link { text-decoration: none; }
-.icon-twitter:after { content: 'a'; }
-.icon-github:after { content: 'Q'; }
-.icon-linkedin:after { content: 'j'; }
-.icon-rss:after { content: ','; }
