@@ -12,6 +12,15 @@ On this page I keep track of stories, articles, books, and *(maybe?)* scriptures
 
 ## 2014
 
+### August 2014
+
+[The Product Spectrum](https://medium.com/my-thoughts-7/the-product-spectrum-bb2084b6f5b3)
+
+[Sixty](http://www.erasmatazz.com/personal/self/sixty.html)
+
+[When It's Bad to Have Good Choices](http://www.newyorker.com/science/maria-konnikova/bad-good-choices)
+
+
 ### July 2014
 
 [An Extended Conversation with Philip Bloom](https://www.themusicbed.com/community/extended-conversation-philip-bloom/)
@@ -29,7 +38,6 @@ On this page I keep track of stories, articles, books, and *(maybe?)* scriptures
 [The Making of teehan+lax: The Story of Our Company](http://www.teehanlax.com/story/teehan-lax/)
 
 [Success](http://www.teehanlax.com/blog/success/)
-
 
 
 ### January 2014
