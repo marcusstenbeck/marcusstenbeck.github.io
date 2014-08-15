@@ -50,3 +50,7 @@ So Good They Can't Ignore You ([Amazon](http://www.amazon.com/Good-They-Cant-Ign
 [Learning Processing](http://www.learningprocessing.com/) and [Nature of Code](http://natureofcode.com/) by [Daniel Shiffman](http://shiffman.net/), recommended by [Tim Stutts](http://timstutts.com/)
 
 [Generative Art: A Practical Guide Using Processing](http://zenbullets.com/book.php) by [Matt Pearson](http://zenbullets.com/)
+
+[Watership Down](http://en.wikipedia.org/wiki/Watership_Down)
+
+[Examined Life: Excursions With Contemporary Thinkers](http://www.amazon.com/Examined-Life-Excursions-Contemporary-Thinkers-ebook/dp/B0097CWMTO/), by Astra Taylor
