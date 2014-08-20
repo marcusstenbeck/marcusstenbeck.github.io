@@ -14,6 +14,8 @@ On this page I keep track of stories, articles, books, and *(maybe?)* scriptures
 
 ### August 2014
 
+[Examined Life: Excursions With Contemporary Thinkers](http://www.amazon.com/Examined-Life-Excursions-Contemporary-Thinkers-ebook/dp/B0097CWMTO/), by Astra Taylor
+
 [The Product Spectrum](https://medium.com/my-thoughts-7/the-product-spectrum-bb2084b6f5b3)
 
 [Sixty](http://www.erasmatazz.com/personal/self/sixty.html)
@@ -52,5 +54,3 @@ So Good They Can't Ignore You ([Amazon](http://www.amazon.com/Good-They-Cant-Ign
 [Generative Art: A Practical Guide Using Processing](http://zenbullets.com/book.php) by [Matt Pearson](http://zenbullets.com/)
 
 [Watership Down](http://en.wikipedia.org/wiki/Watership_Down)
-
-[Examined Life: Excursions With Contemporary Thinkers](http://www.amazon.com/Examined-Life-Excursions-Contemporary-Thinkers-ebook/dp/B0097CWMTO/), by Astra Taylor
