@@ -12,6 +12,11 @@ On this page I keep track of stories, articles, books, and *(maybe?)* scriptures
 
 ## 2014
 
+### October 2014
+
+[4 Ways to Build Trust and Humanize Your Brand](http://moz.com/blog/4-ways-to-build-trust-and-humanize-your-brand)
+
+
 ### September 2014
 
 _Currently reading_ [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Kahneman-Daniel-Paperback/dp/B00IIAZXVK/), by Daniel Kahneman
@@ -21,6 +26,7 @@ _Currently reading_ [Antifragile: Things That Gain from Disorder](http://www.ama
 _Currently reading_ [The People's Platform: Taking Back Power and Culture in the Digital Age](http://www.amazon.com/Peoples-Platform-Taking-Culture-Digital-ebook/dp/B00BOCXGSQ/), by Astra Taylor
 
 [The First 20 Hours: How to Learn Anything ... Fast!](http://www.amazon.com/First-20-Hours-Learn-Anything/dp/1591845556/), by Josh Kaufman. I skipped some of the case study chapters, as suggested by the book. Since they're all illustrating how Josh implements the 'temporary obsession' technique it became somewhat repetitive and a bit predictable. I may return to the book to read he skipped chapters later, but I felt that jumping to the concluding chapter after reading 4 case studies gave me the jist of the book.
+
 
 ### August 2014
 
